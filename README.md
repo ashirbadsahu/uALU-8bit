@@ -1,4 +1,5 @@
-A very basic ALU written in SystemVerilog.
+# uALU-8bit
+A basic 8bit micro ALU written in SystemVerilog.
 
 ## ALU Functionality
 - **Inputs**: 
