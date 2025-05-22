@@ -12,6 +12,7 @@ A very basic ALU written in SystemVerilog.
     - `Overflow_Flag`: Set if signed arithmetic results in an overflow.
 
 ## Block Diagram
+```
         +---------------------+
         |                     |
 A <-----|                     |
@@ -22,7 +23,7 @@ OpCode<-|                     |---> Carry_Flag
         |                     |---> Negative_Flag
         |                     |---> Overflow_Flag
         +---------------------+
-
+```
 ## Operations
 - **Arithmetic**:
     - Addition (`A + B`)
